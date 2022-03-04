@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24728385/156679952-c3fc5533-16c0-4769-869d-964359f17eb9.gif" width="70%">
+  <img src="https://user-images.githubusercontent.com/24728385/156679952-c3fc5533-16c0-4769-869d-964359f17eb9.gif" width="75%">
 </p>
 
 <p align="center">🇰🇷 🇦🇺</p>
