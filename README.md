@@ -22,7 +22,7 @@
 <br>
 <h3 align="center"> ⚡️ minbr0ther's ⚡️  </h3>
 <p align="center">
-  <a href="https://velog.io/@minbr0ther"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minbr0ther"/></a>&nbsp
+  <a href="https://velog.io/@minbr0ther/series"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minbr0ther/series"/></a>&nbsp
   <a href="https://minbr0ther.notion.site"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-squre&logo=notion&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/minbr0ther/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minbr0ther/"/></a>&nbsp
   <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=minbr0ther@hs.ac.kr"/></a>
